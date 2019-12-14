@@ -6,7 +6,9 @@ It's a great tool for when you want to get hands on with only parts of repositor
 We get regex, requests, and a ton of string manipulation involved instead.
 
 # Current Capabilities
-Running this script, with 'file' and a GitHub URL as parameters, downloads the raw version of that file into my downloads folder.
+Running this script, with 'file' and a GitHub URL as parameters, 
+  * example: `python launcher.py [ file | dir ] [ GitHub URL]`
+downloads the raw version of that file into my downloads folder.
 
 # TODO 
 Download directories, recursively down, as well.
