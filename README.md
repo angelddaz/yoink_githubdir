@@ -11,4 +11,4 @@ Running this script, with 'file' and a GitHub URL as parameters, downloads the r
 # TODO 
 Download directories, recursively down, as well.
 
-[![The Simpsons]({https://i.ytimg.com/vi/Tp_hNsBjXQA/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLB5Q6lng33z56ABlUm01ci8fMUhsg})]({https://www.youtube.com/embed/CJh1hmmLLzw} "Yoink!")
+[![The Simpsons]({https://i.ytimg.com/vi/CJh1hmmLLzw/hqdefault.jpg})]({https://www.youtube.com/embed/CJh1hmmLLzw} "Yoink!")
