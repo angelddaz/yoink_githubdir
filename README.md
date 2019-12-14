@@ -8,6 +8,7 @@ We get regex, requests, and a ton of string manipulation involved instead.
 # Current Capabilities
 Running this script, with 'file' and a GitHub URL as parameters, 
   * example: `python launcher.py [ file | dir ] [ GitHub URL]`
+
 downloads the raw version of that file into my downloads folder.
 
 # TODO 
